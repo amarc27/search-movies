@@ -1,6 +1,7 @@
 # movies
 
-Project from the "Learn Vue.js from Scratch" course on (Educative)[Educative.io)] by Thomas Lombart
+## Project from the "Learn Vue.js from Scratch" course on [Educative](https://www.educative.io/courses/learn-vuejs-from-scratch) by Thomas Lombart
+## Link to project [here](search-movies.amarc27.now.sh)
 
 
 ## Project setup
