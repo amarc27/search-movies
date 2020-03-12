@@ -1,5 +1,8 @@
 # movies
 
+Project from the "Learn Vue.js from Scratch" course on (Educative)[Educative.io)] by Thomas Lombart
+
+
 ## Project setup
 ```
 yarn install
